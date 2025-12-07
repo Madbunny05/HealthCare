@@ -1,0 +1,9 @@
+{
+  "name": "MediMind AI",
+  "description": "A comprehensive AI-powered healthcare companion featuring symptom checking, disease detection, wellness planning, and emergency assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
